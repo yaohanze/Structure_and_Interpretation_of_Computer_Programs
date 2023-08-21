@@ -1,0 +1,1 @@
+This folder contains all projects in this course.
